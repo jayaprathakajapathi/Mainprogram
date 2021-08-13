@@ -1,0 +1,28 @@
+[
+    { "name":"vegrice","price":265.00,"status":"available"},
+    {"name":"tomato rice","price":195.00,"status":"available"},
+        { "name":"curd rice","price":145.00,"status":"available"},
+        {"name":"Sambhar rice","price":95.00,"status":"available"},
+        {"name":"Idly","price":25.00,"status":"available"},
+        {"name":"Dosa","price":35.00,"status":"available"},
+        {"name":"Gheerost","price":65.00,"status":"available"},
+        {"name":"pongal","price":45.00,"status":"available"},
+        {"name":"orange juice","price":45.00,"status":"available"},
+        {"name":"Pineapple juice","price":45.00,"status":"available"},
+        {"name":"Apple juice","price":45.00,"status":"available"},
+        {"name":"Grapes","price":45.00,"status":"available"},
+        {"name":"Roti","price":60.00,"status":"available"},
+        {"name":"Chappathi","price":50.00,"status":"available"},
+        {"name":"Parota","price":55.00,"status":"available"},
+        {"name":"Pasta","price":45.00,"status":"available"},
+        {"name":"lemon juice","price":25.00,"status":"available"},
+        {"name":"chilly parota","price":95.00,"status":"available"}
+        
+        
+    
+         
+    ]
+
+
+
+    

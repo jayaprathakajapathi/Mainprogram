@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+#menu{
+    color: green;
+    float:inline-end
+}
+.img{
+    height: 50%;
+    color: palegreen;
+}
